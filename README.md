@@ -60,4 +60,8 @@ Multi-site enterprise network connecting two branches and a central server site.
 
 ---
 
-## Repository Structure
+## 👩‍🎓 Author
+**Sumaira Safeer**  
+BS Computer Engineering (Final Year)  
+COMSATS University Islamabad, Attock Campus  
+[LinkedIn](https://www.linkedin.com/in/sumaira-safeer-948804418/)
